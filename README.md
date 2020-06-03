@@ -11,7 +11,7 @@
 + 由于各类宠物命名繁琐，故使用字母和数字进行命名，请参考效果图进行选择
 + 例如：
     * 图标名称.png
-    * X001.png 或 001.png
+    * X001.png 或 Z001.png 或 001.png
 
 远程修改地址`img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/图标名称.png`
 
@@ -24,6 +24,14 @@
 
 
 ## 更新日志
+
++ v0.2
+2020-06-03
+
+TG贴纸 可爱形态：30枚
+
+
+
 + v0.1
 2020-03-23
 
