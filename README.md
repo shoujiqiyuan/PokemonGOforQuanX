@@ -53,4 +53,4 @@ TG贴纸 可爱形态：30枚
 
 
 ## 预览图效果
-![markdown](https://github.com/shoujiqiyuan/PokemonGOforQuanX/blob/master/Preview.png "PokemonGOforQuanX")
+![markdown](https://github.com/shoujiqiyuan/PokemonGOforQuanX/blob/master/Preview.jpg "PokemonGOforQuanX")
